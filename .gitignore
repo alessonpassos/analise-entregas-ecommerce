@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore the directory "dataset" and the file "descrição_do_projeto.txt"
+dataset/
+descricao_do_projeto.txt
